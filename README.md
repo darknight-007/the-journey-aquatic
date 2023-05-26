@@ -5,4 +5,7 @@ Lead artist: Mark Dill
 
 
 Team: David Ayers, Kyle Breen, Lianna Goyette, Jnaneshwar Das, Darin Basille 
-![journey-aquatic](https://user-images.githubusercontent.com/3958994/219785850-8d39f939-467c-4dd2-9de8-5a52bf051a00.gif)
+
+
+https://github.com/darknight-007/the-journey-aquatic/assets/3958994/a25dce2e-7813-41f2-a849-62a03ab3223c
+

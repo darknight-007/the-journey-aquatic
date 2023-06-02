@@ -8,9 +8,7 @@ Team: David Ayers, Kyle Breen, Lianna Goyette, Jnaneshwar Das, Darin Basille
 
 Files: <br>
 Waveform OBJ: https://drive.google.com/file/d/1U8bCifb8ouupd6h3hj60klTWOtSAS6cz/view?usp=sharing <br>
-
 STL format: https://drive.google.com/file/d/1n85XRn_t2jUJh4txOKPH-i2ML27IXkzE/view?usp=sharing <br>
-
 Blender format: https://drive.google.com/file/d/1B1KyFm8VlKuPwSHZVzF4bGcLvew1xyvb/view?usp=sharing <br>
 
 ![The Journey Aquatic - Technical Drawings v2 0 - June 2, 2023](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/524603b0-5952-4c7e-9f25-8f23ec951371)

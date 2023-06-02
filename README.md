@@ -13,8 +13,6 @@ STL https://drive.google.com/file/d/1n85XRn_t2jUJh4txOKPH-i2ML27IXkzE/view?usp=s
 ![The Journey Aquatic - Technical Drawings v2 0 - June 2, 2023](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/524603b0-5952-4c7e-9f25-8f23ec951371)
 
 ![the-journey-aquatic-interior](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/e301a8c6-6e75-4a62-a804-d2acde11152d)
-
-
-
-
-
+![wiremesh-turtle-evening](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/e51884fc-f8fd-4d7d-a164-303428aa03e4)
+![wiremesh-turtle-render](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/e4ca3c0d-f757-4a35-9b55-1f8b831bb2e1)
+![wiremesh-turtle-render-night](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/0e8bba7d-8dfe-4d52-821b-f5fa94b8c215)

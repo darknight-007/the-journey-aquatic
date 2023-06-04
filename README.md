@@ -12,6 +12,7 @@ STL format: https://drive.google.com/file/d/1n85XRn_t2jUJh4txOKPH-i2ML27IXkzE/vi
 Blender format: https://drive.google.com/file/d/1B1KyFm8VlKuPwSHZVzF4bGcLvew1xyvb/view?usp=sharing <br>
 [The Journey Aquatic - Technical Drawings v2 0 - June 2, 2023](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/524603b0-5952-4c7e-9f25-8f23ec951371) <br>
 ![The Journey Aquatic - Technical Drawings v2 2 - June 3, 2023](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/d44d180c-07df-49ba-a249-5cfcd8490cb5)
+
 ![the-journeyaquaticlighting--concept-EL-v1](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/b9739942-3b30-414f-a946-0dea216f7bd2)
 
 https://github.com/darknight-007/the-journey-aquatic/assets/3958994/13a843b9-f5df-4587-89f1-fa555204c9c0

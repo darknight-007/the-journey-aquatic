@@ -13,7 +13,8 @@ Blender format: https://drive.google.com/file/d/1B1KyFm8VlKuPwSHZVzF4bGcLvew1xyv
 [The Journey Aquatic - Technical Drawings v2 0 - June 2, 2023](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/524603b0-5952-4c7e-9f25-8f23ec951371) <br>
 ![The Journey Aquatic - Technical Drawings v2 2 - June 3, 2023](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/d44d180c-07df-49ba-a249-5cfcd8490cb5)
 
-![wiremesh-turtle-render](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/e4ca3c0d-f757-4a35-9b55-1f8b831bb2e1)
+![wiremesh-turtle-morning-outside](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/4cce716e-b1dc-4b23-8e4c-326f55ff2c67)
+
 ![the-journeyaquaticlighting--concept-EL-v1](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/b9739942-3b30-414f-a946-0dea216f7bd2)
 ![the-journey-aquatic-interior-mesh](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/a9a6d31c-a56d-4817-91b9-3d4fa4324cd0)
 

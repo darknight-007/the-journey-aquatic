@@ -20,8 +20,3 @@ Blender format: https://drive.google.com/file/d/1B1KyFm8VlKuPwSHZVzF4bGcLvew1xyv
 
 https://github.com/darknight-007/the-journey-aquatic/assets/3958994/13a843b9-f5df-4587-89f1-fa555204c9c0
 
-
-![wiremesh-turtle-evening](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/e51884fc-f8fd-4d7d-a164-303428aa03e4)
-
-![wiremesh-turtle-render-night](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/0e8bba7d-8dfe-4d52-821b-f5fa94b8c215)
-

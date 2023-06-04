@@ -15,7 +15,7 @@ Blender format: https://drive.google.com/file/d/1B1KyFm8VlKuPwSHZVzF4bGcLvew1xyv
 
 ![wiremesh-turtle-render](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/e4ca3c0d-f757-4a35-9b55-1f8b831bb2e1)
 ![the-journeyaquaticlighting--concept-EL-v1](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/b9739942-3b30-414f-a946-0dea216f7bd2)
-![Uploading the-journey-aquatic-interior-mesh.png…]()
+![the-journey-aquatic-interior-mesh](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/a9a6d31c-a56d-4817-91b9-3d4fa4324cd0)
 
 https://github.com/darknight-007/the-journey-aquatic/assets/3958994/13a843b9-f5df-4587-89f1-fa555204c9c0
 

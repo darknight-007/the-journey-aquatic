@@ -4,8 +4,6 @@ Sea Turtle design for installation art (Animalia, BM2023)
 Lead artist: Mark Dill
 Team: David Ayers, Kyle Breen, Lianna Goyette, Jnaneshwar Das, Darin Basille 
 
-[The Journey Aquatic - Technical Drawings v2.0 - June 2, 2023.pdf](https://github.com/darknight-007/the-journey-aquatic/blob/main/The%20Journey%20Aquatic%20-%20Technical%20Drawings%20v2.2%20-%20June%203%2C%202023.pdf)
-
 Files: <br>
 Waveform OBJ: https://drive.google.com/file/d/1U8bCifb8ouupd6h3hj60klTWOtSAS6cz/view?usp=sharing <br>
 STL format: https://drive.google.com/file/d/1n85XRn_t2jUJh4txOKPH-i2ML27IXkzE/view?usp=sharing <br>

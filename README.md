@@ -22,4 +22,3 @@ https://github.com/darknight-007/the-journey-aquatic/assets/3958994/bcb15eff-0c9
 
 Turtle Shell Cutouts Tiling 
 ![image](https://github.com/darknight-007/the-journey-aquatic/assets/3958994/11d15202-d331-464c-90bc-cd97d26e11bd)
-file:///home/dreamslab/Downloads/The-Journey-Aquatic-Shell-Cutouts-Tiles.png
